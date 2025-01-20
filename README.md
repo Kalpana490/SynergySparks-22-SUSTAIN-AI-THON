@@ -10,7 +10,7 @@ Whether you're looking to improve mental health, boost positivity, or simply lea
 
 Below is the workflow diagram that illustrates the primary interaction flow within the MindScope app. It showcases how users progress from the onboarding phase, selecting their area of interest, to receiving personalized content based on their inputs.
 
-![image][Screenshot 2025-01-20 234956](https://github.com/user-attachments/assets/4f56c289-3115-4349-b8e6-b9e43c643981)
+![image](https://github.com/user-attachments/assets/4f56c289-3115-4349-b8e6-b9e43c643981)
 
 
 Note: The diagram represents the following flow:
