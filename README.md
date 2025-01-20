@@ -68,4 +68,7 @@ MindScope provides solutions for the following challenges:
 
 ---
 
+![image](https://github.com/user-attachments/assets/d656d39c-e092-45fc-928f-3d7d7b340d82)
+![image](https://github.com/user-attachments/assets/139a83b9-e95b-4d05-a492-0444009f8cc9)
+![image](https://github.com/user-attachments/assets/24812236-697f-45c4-adb5-b869b59a2d9c)
 
