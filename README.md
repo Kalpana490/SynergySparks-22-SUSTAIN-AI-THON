@@ -10,7 +10,7 @@ Whether you're looking to improve mental health, boost positivity, or simply lea
 
 Below is the workflow diagram that illustrates the primary interaction flow within the MindScope app. It showcases how users progress from the onboarding phase, selecting their area of interest, to receiving personalized content based on their inputs.
 
-![Mind Maze Workflow](images/workflow-diagram.png)
+https://lucid.app/lucidchart/a867e0ea-b458-4fba-ad25-9d59f92e79c4/edit?viewport_loc=-422%2C144%2C2770%2C1307%2C0_0&invitationId=inv_fee04db1-bd7c-44f9-9cfb-b5669c2287df
 
 Note: The diagram represents the following flow:
 . *Welcome Screen*: User is greeted with a friendly message.
