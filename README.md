@@ -1,4 +1,4 @@
-## Brief Introduction
+![Screenshot 2025-01-20 234956](https://github.com/user-attachments/assets/4f56c289-3115-4349-b8e6-b9e43c643981)## Brief Introduction
 
 *Mind Maze* is an innovative mental wellness app designed to provide personalized mental health support. The platform aims to cater to the emotional and psychological needs of users by offering a variety of resources, such as motivational tips, gender-specific guidance, and options for selecting areas of interest. Mind Maze incorporates a user-friendly interface and dynamic features that help users track their mental well-being and access relevant content.
 
@@ -10,7 +10,8 @@ Whether you're looking to improve mental health, boost positivity, or simply lea
 
 Below is the workflow diagram that illustrates the primary interaction flow within the MindScope app. It showcases how users progress from the onboarding phase, selecting their area of interest, to receiving personalized content based on their inputs.
 
-https://lucid.app/lucidchart/a867e0ea-b458-4fba-ad25-9d59f92e79c4/edit?viewport_loc=-422%2C144%2C2770%2C1307%2C0_0&invitationId=inv_fee04db1-bd7c-44f9-9cfb-b5669c2287df
+![image][Uploading Screenshot 2025-01-20 234956.png…]()
+
 
 Note: The diagram represents the following flow:
 . *Welcome Screen*: User is greeted with a friendly message.
