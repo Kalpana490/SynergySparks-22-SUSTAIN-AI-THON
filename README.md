@@ -1,6 +1,6 @@
 ## Brief Introduction
 
-*Mind Maze* is an innovative mental wellness app designed to provide personalized mental health support. The platform aims to cater to the emotional and psychological needs of users by offering a variety of resources, such as motivational tips, gender-specific guidance, and options for selecting areas of interest. Mind Maze incorporates a user-friendly interface and dynamic features that help users track their mental well-being and access relevant content.
+*MindScope* is an innovative mental wellness app designed to provide personalized mental health support. The platform aims to cater to the emotional and psychological needs of users by offering a variety of resources, such as motivational tips, gender-specific guidance, and options for selecting areas of interest. Mind Maze incorporates a user-friendly interface and dynamic features that help users track their mental well-being and access relevant content.
 
 Whether you're looking to improve mental health, boost positivity, or simply learn more about your emotional state, MindScope is here to guide you. The app's goal is to create a supportive environment where individuals can enhance their well-being by exploring areas like mindfulness, fitness, and happiness.
 
@@ -23,9 +23,10 @@ Note: The diagram represents the following flow:
 
 ## Concept Map
 
-The concept map below represents the core features and relationships within Mind Maze. It visualizes how different components are interconnected, from user inputs to content delivery.
+The concept map below represents the core features and relationships within MindScope. It visualizes how different components are interconnected, from user inputs to content delivery.
+![image](https://github.com/user-attachments/assets/9b28a25f-8fbf-4019-a402-df44cb821cf7)
 
-![Mind Maze Concept Map](images/concept-map.png)
+
 
 Note: The concept map includes:
 - *User Profile*: Gender and interests selection.
@@ -36,18 +37,18 @@ Note: The concept map includes:
 
 ## Tech Stack
 
-Mind Maze utilizes the following technologies:
+MindScope utilizes the following technologies:
 
 - *Frontend*: HTML, CSS, JavaScript (ES6+), React (for future features)
-- *Backend*: Node.js, Express.js (optional for API)
+- *Backend*: python flask
 - *Database*: Firebase (for storing user data and preferences)
 - *Authentication*: Firebase Authentication or Auth0 (for secure login)
-- *Deployment*: GitHub Pages, Vercel, or Firebase Hosting
+- *Deployment*: GitHub Pages.
 
 ---
 ## Novelty
 
-Mind Maze novelty lies in its personalized approach to mental wellness. By enabling users to select their areas of interest and tailoring content based on these selections, the app provides a unique, interactive experience. Furthermore, the integration of daily motivational tips and gender-based wellness advice makes it an inclusive and user-centered platform.
+MindScope novelty lies in its personalized approach to mental wellness. By enabling users to select their areas of interest and tailoring content based on these selections, the app provides a unique, interactive experience. Furthermore, the integration of daily motivational tips and gender-based wellness advice makes it an inclusive and user-centered platform.
 
 The app also offers:
 
@@ -57,7 +58,7 @@ The app also offers:
 
 ---
 
-## Solutions for Mind Maze
+## Solutions for MindScope
 
 MindScope provides solutions for the following challenges:
 
